@@ -1,0 +1,51 @@
+[
+      {
+        "id": 1,
+        "num": "001",
+        "name": "Jay Park",
+        "img": "https://kepoper.com/wp-content/uploads/2020/10/JAY-removebg-preview.png",
+        "NickName": "Jay"
+      },
+      {
+        "id": 2,
+        "num": "002",
+        "name": "Lee Heeseung",
+        "img": "https://kepoper.com/wp-content/uploads/2020/10/HEESUNG-removebg-preview.png",
+        "NickName": "Heeseung"
+      },
+      {
+        "id": 3,
+        "num": "003",
+        "name": "Park Sunghoon",
+        "img": "https://kepoper.com/wp-content/uploads/2020/10/SUNGHOON-removebg-preview.png",
+        "NickName": "Sunghoon"
+      },
+      {
+        "id": 4,
+        "num": "004",
+        "name": "Yang Jungwon",
+        "img": "https://kepoper.com/wp-content/uploads/2020/10/JUNGWON-removebg-preview.png",
+        "NickName": "Uwon"
+      },
+      {
+        "id": 5,
+        "num": "005",
+        "name": "Nishimura Riki",
+        "img": "https://kepoper.com/wp-content/uploads/2020/10/NIKI-removebg-preview.png",
+        "NickName": "Ni-ki"
+      },
+      {
+        "id": 6,
+        "num": "006",
+        "name": "Shim Jaeyun",
+        "img": "https://kepoper.com/wp-content/uploads/2020/10/JAKE-removebg-preview.png",
+        "NickName": "Jake"
+      },
+      {
+        "id": 7,
+        "num": "007",
+        "name": "Kim Seonwo",
+        "img": "https://kepoper.com/wp-content/uploads/2020/10/SUNOO-removebg-preview.png",
+        "NickName": "Sunoo"
+      }
+]
